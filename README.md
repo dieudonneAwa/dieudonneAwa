@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-+ I'm a Full-stack Software Engineer currently working as a level II Frontend Engineer at [Innovaccer, Inc.](https://innovaccer.com/)
++ I'm a Full-stack Software Engineer currently building [Officehours.me](https://app.officehours.me/)
 + I'm also a Top-rated Plus freelancer on [Upwork](https://upwork.com/) with 100% Job success.
 + I usually write articles on [my portfolio](https://awadieudonne.com/) and [medium](https://medium.com/@dieudonneawa7/)
 + I also create video contents and manage a [YouTube channel](https://www.youtube.com/channel/UC4Bh0roLmZn4RIYd4kcD7KQ) with over +100k views.
