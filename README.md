@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-+ I'm a Full-stack Software Engineer currently working at Jaguar Land Rover
++ I'm a Software Engineer currently working at Jaguar Land Rover
 + I'm also a Top-rated freelancer on [Upwork](https://upwork.com/) with 100% Job success.
 + I usually write articles on [my portfolio](https://awacreates.com/) and [medium](https://medium.com/@dieudonneawa7/)
 + I also create video contents and manage a [YouTube channel](https://www.youtube.com/channel/UC4Bh0roLmZn4RIYd4kcD7KQ) with over +160k views.
